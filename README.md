@@ -2,4 +2,4 @@
 
 - Estado: En construccion.
 
-  Para ejecutar el sistema instalar node v12.0
+  ```Para ejecutar el sistema instalar node v12.0```
